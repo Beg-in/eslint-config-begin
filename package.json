@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-begin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "ESLint configuration recommended by Begin LLC",
   "main": "index.js",
   "scripts": {
