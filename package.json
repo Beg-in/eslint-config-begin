@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-begin",
+  "version": "0.1.0",
+  "description": "ESLint configuration recommended by Begin LLC",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lint",
+    "lint": "eslint . --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beg-in/eslint-config-begin.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Cody Sherman <cody@codysherman.com> (https://codysherman.com)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Beg-in/eslint-config-begin/issues"
+  },
+  "homepage": "https://github.com/Beg-in/eslint-config-begin#readme",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1", 
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
