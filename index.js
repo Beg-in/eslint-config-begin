@@ -31,7 +31,7 @@ module.exports = {
     'no-duplicate-imports': 'error',
     'no-empty': [ 'error', { allowEmptyCatch: true } ],
     'no-multi-spaces': 'error',
-    'no-multiple-empty-lines': [ 'error', { max: 2, maxBOF: 0 } ],
+    'no-multiple-empty-lines': [ 'error', { max: 1, maxBOF: 0 } ],
     'no-trailing-spaces': 'error',
     'no-unneeded-ternary': 'error',
     'object-curly-newline': [ 'error', { multiline: true } ],
